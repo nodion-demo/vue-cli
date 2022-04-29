@@ -1,0 +1,4 @@
+nodion:
+  env: static
+  build_command: yarn && yarn build
+  publish_dir: /dist
